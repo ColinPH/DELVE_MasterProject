@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PropellerCap.FallingState">
+    <Position X="0.75" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAAAAAAAAAAAAYAAAAQACAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\States\FallingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.GrapplingState">
+    <Position X="3" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAAAAAAAAAAAAYAAAQQAAAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\States\GrapplingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.JumpState">
+    <Position X="0.75" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAgAIAEAAAQAAAAQAAAAAYAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\States\JumpState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.LandingState">
+    <Position X="3" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAAAAAAAAAAAAYAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\States\LandingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IdleState">
+    <Position X="5.25" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAAAAAAAAAAAAYAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\States\IdleState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WalkingState">
+    <Position X="5.25" Y="11" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAAAAAQAAAAAAYAAAAQAAAAAAIAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\States\WalkingState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseState">
+    <Position X="9.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAQAAAAQBCACEYAAAAAAAAAACIAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\BaseState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateMachine">
+    <Position X="0.75" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAOAAAAAABAAAIACAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateMachineBehaviour">
+    <Position X="4.25" Y="1.5" Width="2" />
+    <NestedTypes>
+      <Delegate Name="StateMachineBehaviour.OnNewStageEntered" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Core\Characters\Player\Scripts\State machine\StateMachineBehaviour.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQAggAAAgAAKAAAAAABAAAIAAAEAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Core\Characters\Player\Scripts\State machine\StateMachineBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.77" />
+</ClassDiagram>

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79d4d3a727507c04e96d73e40f6f2841, type: 3}
+  m_Name: SO_Totem_Wind
+  m_EditorClassIdentifier: 
+  _totemName: Wind Totem
+  _requiredFragments: 5
+  _fragmentPrefabs:
+  - {fileID: 3814650127577028108, guid: be5ed1a6f950d9741bbffa2287cc4ae6, type: 3}
+  - {fileID: 3814650127577028108, guid: be5ed1a6f950d9741bbffa2287cc4ae6, type: 3}
+  - {fileID: 3814650127577028108, guid: be5ed1a6f950d9741bbffa2287cc4ae6, type: 3}
+  - {fileID: 3814650127577028108, guid: be5ed1a6f950d9741bbffa2287cc4ae6, type: 3}
+  - {fileID: 3814650127577028108, guid: be5ed1a6f950d9741bbffa2287cc4ae6, type: 3}
+  _socketFragment: {fileID: 6971965724762128767, guid: 1ef13dcbfadfa13478838559114fc0cf,
+    type: 3}
+  _firstFragmentInCollectorVoiceLine: {fileID: 11400000, guid: 9dd8d7fed335a5d4aab41af03e52ac60,
+    type: 2}
+  fragmentIconInJournalColor: {r: 0.7830189, g: 0.5304397, b: 0.18098079, a: 1}

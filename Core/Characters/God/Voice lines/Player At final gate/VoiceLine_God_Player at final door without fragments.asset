@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_God_Player at final door without fragments
+  m_EditorClassIdentifier: 
+  _localizationID: 41
+  _defaultText: You need more of my power to be worthy
+  _context: When the player reaches the final door at the end of the game. Without
+    all the fragments being deposited.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 97388b3d86e0fdd47bc7586089d91f4a,
+      type: 2}
+  _screenTime: 4
+  _notes: 
+  _implementationNotes: 
+  _isInGroup: 0
+  _implementedInObjects: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_Mocking Researchers_00
+  m_EditorClassIdentifier: 
+  _localizationID: 32
+  _defaultText: 'Their feeble minds cold not comprehend '
+  _context: When the player encounters an environment story telling place and the
+    god comments on the researchers that once lived in the temple. Has variations.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: e2df2a23732ec2c47b97094c11580b7e,
+      type: 2}
+  _screenTime: 3
+  _notes: 
+  _implementationNotes: in the voiceline triggers somewhere in the scenes
+  _isInGroup: 1
+  _implementedInObjects: []

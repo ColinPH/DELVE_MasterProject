@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e897a1987130eaa42ba5817faf57ef2c, type: 3}
+  m_Name: SO_Ability_Player_Hook
+  m_EditorClassIdentifier: 
+  actionName: Default Player Ability
+  inputType: 0
+  m_abilityCooldownTime: 0.25
+  HUDComponents:
+  - {fileID: 8065723857902434174, guid: efde2cf07ed42b1449489374ada73a0e, type: 3}
+  maxRange: 16
+  hookableMask:
+    serializedVersion: 2
+    m_Bits: 1920
+  _validLayersMask:
+    serializedVersion: 2
+    m_Bits: 1792
+  _castType: 1
+  _sphereCastRadius: 0.2
+  _ropeExtensionSpeed: 6
+  _ropeRetractationSpeed: 10
+  fastInputTime: 0.25
+  anchoredButton: 11
+  sprintButton: 10
+  _extendRopeAnimEventIdentifier: Extend rope
+  _extendRopeAnimTrigger: Extend rope
+  _recoilAnimTrigger: Recoil
+  _extendVFXClip: {fileID: 11400000, guid: 08d198a4a05d7ee429903e2d31298888, type: 2}
+  _recoilVFXClip: {fileID: 11400000, guid: ff9bf2e79b5533c419bfacdd2b4aee09, type: 2}
+  _impactVFXClip: {fileID: 11400000, guid: 0e2896dbf27daab478d940f5b2c2ffba, type: 2}
+  _impactDecalVFXClip: {fileID: 11400000, guid: e99557a56cbf60e46afe3e107e2ea5d4,
+    type: 2}
+  _extendFailClip: {fileID: 11400000, guid: e08367eb8ef5b674d86dc4877908e846, type: 2}
+  _extendClip: {fileID: 11400000, guid: 1f88ffb5a8dea2b4f9ac5fb5cc706fef, type: 2}
+  _latchFailClip: {fileID: 11400000, guid: b704bca0b55eaf745801c0b7106c687f, type: 2}
+  _latchSuccessClip: {fileID: 11400000, guid: 2fd7a31a6f29c4445b328d801a25136f, type: 2}
+  _tightenRopeClip: {fileID: 11400000, guid: 8cee03a46e279dd4d81dd679e57b22cf, type: 2}
+  _detachClip: {fileID: 11400000, guid: aca1e793d3bb9b046999b373e50c432b, type: 2}
+  _pullActionClip: {fileID: 11400000, guid: 7674c58d71f24de4b894bde30c2271ca, type: 2}
+  _recoilClip: {fileID: 11400000, guid: 3879eaeead48cf744b54df3d29049d82, type: 2}
+  _flyMovementClip: {fileID: 11400000, guid: 86543b3b4f672654b8415d1b3394d595, type: 2}
+  _enterSwingingClip: {fileID: 11400000, guid: 882e130821bd68c47bb3b17fb2fbbb7d, type: 2}
+  _swingingClip: {fileID: 11400000, guid: ef98b9a6bf4f1fa47a3cbdad9209f665, type: 2}
+  _faceplantClip: {fileID: 11400000, guid: 7008dc7a10edaf0419b32bd5457e51c5, type: 2}
+  _pullActionForce: 20
+  _travelSpeed: 20
+  _movementType: 1
+  _travelCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.0012931824
+      value: 0.5
+      inSlope: 3.3657947
+      outSlope: 3.3657947
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.1271932
+    - serializedVersion: 3
+      time: 0.26314476
+      value: 0.83021903
+      inSlope: 1.5025629
+      outSlope: 1.5025629
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.13771261
+      outWeight: 0.067487516
+    - serializedVersion: 3
+      time: 1.0008545
+      value: 1
+      inSlope: 0.11075067
+      outSlope: 0.11075067
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.4895613
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _curveMultiplier: 18
+  _gunUnhookDistance: 0.2
+  _applyMovementProjection: 1
+  _projectionAmount: 1
+  _speedMultiplierAtDestination: 0.1
+  _verticalOffset: 3
+  _edgeDetectionResolution: 8
+  _edgeDetectionRadius: 0.3
+  _edgeDetectionHeight: 3
+  _initialPullForce: 5
+  _tensionPullForce: 2
+  _startImpulseIntensity: 5
+  _ropeMaxRangeWarningThreshold: 17
+  _spring: 6
+  _damper: 1
+  _massScale: 6
+  _ropeShorteningSpeed: 4
+  _ropeLengtheningSpeed: 3

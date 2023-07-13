@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_God_First Fragment Deposit_Dark
+  m_EditorClassIdentifier: 
+  _localizationID: 30
+  _defaultText: You cannot hope to contain me... I am eternal
+  _context: The first time in the level that has the Dark totem that the player deposits
+    one or more fragments.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: c8b1046978a5e924881b626efb9619c1,
+      type: 2}
+  _screenTime: 4
+  _notes: 
+  _implementationNotes: 
+  _isInGroup: 0
+  _implementedInObjects: []

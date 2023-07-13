@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_God_Player at 400 coins
+  m_EditorClassIdentifier: 
+  _localizationID: 38
+  _defaultText: Even if you escape.. how do you plan to bring all that junk with
+    you ?
+  _context: When the player has collected 400 coins.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 7f8448e32230f384ca834bcbe6087ace,
+      type: 2}
+  _screenTime: 4
+  _notes: 
+  _implementationNotes: In the root scene, in the special game events
+  _isInGroup: 0
+  _implementedInObjects: []

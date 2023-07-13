@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a595a0478090364bbe738f362303274, type: 3}
+  m_Name: VoiceLineGroup_God_Player Death
+  m_EditorClassIdentifier: 
+  _selectionMethod: 0
+  _voiceLines:
+  - {fileID: 11400000, guid: cdf8e87ea4447ac42a1462333dff6d2c, type: 2}
+  - {fileID: 11400000, guid: df24f9960ea5b3442ae73e0675c48dcd, type: 2}
+  - {fileID: 11400000, guid: a0499afc464f1b7438116e7239a00e2a, type: 2}
+  - {fileID: 11400000, guid: 923df168e7c3a1545a6663b112e2096a, type: 2}
+  - {fileID: 11400000, guid: 50fce8ee35e95d14ab7c32cf1b1b7636, type: 2}
+  - {fileID: 11400000, guid: 9bf1b9e549a5fb54b9f7de1f865f1fa9, type: 2}
+  - {fileID: 11400000, guid: 0449ce30ea115bb44aa840ae58f80204, type: 2}
+  - {fileID: 11400000, guid: ed36a5cda661dd344bb157cfde154f9b, type: 2}

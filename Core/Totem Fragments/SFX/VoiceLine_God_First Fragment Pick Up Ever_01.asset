@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_God_First Fragment Pick Up Ever_01
+  m_EditorClassIdentifier: 
+  _localizationID: 28
+  _defaultText: What do you hope to achive by stealing my power. You are but a grain
+    in the vast universe.
+  _context: The very firts time the player picks up any fragment in the game.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 2c2972a6d5adc0e4e8e1e21248b5af93,
+      type: 2}
+  _screenTime: 5
+  _notes: 
+  _implementationNotes: 
+  _isInGroup: 1
+  _implementedInObjects:
+  - {fileID: 3814650127577028108, guid: be5ed1a6f950d9741bbffa2287cc4ae6, type: 3}
+  - {fileID: 3814650127577028108, guid: 1bc1ecb0355e41444b697dd6b36be20e, type: 3}
+  - {fileID: 3814650127577028108, guid: 065c0dac569726b4db910c4bc696126c, type: 3}

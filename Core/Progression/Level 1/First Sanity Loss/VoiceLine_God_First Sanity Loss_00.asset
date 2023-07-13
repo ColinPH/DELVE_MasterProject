@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_God_First Sanity Loss_00
+  m_EditorClassIdentifier: 
+  _localizationID: 1
+  _defaultText: Darkness haunts you
+  _context: The first time the player loses sanity. Has variations.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 407421c4ce271e94fbe82a9dd7c08f8f,
+      type: 2}
+  _screenTime: 3
+  _notes: 
+  _implementationNotes: 
+  _isInGroup: 1
+  _implementedInObjects: []

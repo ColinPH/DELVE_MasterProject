@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_God_Player Death_05
+  m_EditorClassIdentifier: 
+  _localizationID: 17
+  _defaultText: Dare try again...
+  _context: Random sentence for when the player dies. Has Variations. First two times
+    has specific voice lines.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 7695b26b948b66c468edbd539c99502a,
+      type: 2}
+  _screenTime: 2
+  _notes: 
+  _implementationNotes: 
+  _isInGroup: 1
+  _implementedInObjects:
+  - {fileID: 4028576481339088234, guid: 71ffd40e2ce52824ea07b245c5a71d8e, type: 3}

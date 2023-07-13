@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_Hub_Player Curse_00
+  m_EditorClassIdentifier: 
+  _localizationID: 20
+  _defaultText: Your greed has unlocked the gate of infinity..  and darkness pours
+    fourth
+  _context: When the player picks up the treasure and gets cursed in the hub
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 65afaa8b8b12b0143ba2e66f70c9f9d3,
+      type: 2}
+  _screenTime: 4
+  _notes: 
+  _implementationNotes: 
+  _isInGroup: 1
+  _implementedInObjects:
+  - {fileID: 6677623131453297447, guid: 433fb6db917810349bb3b46d802a47ef, type: 3}

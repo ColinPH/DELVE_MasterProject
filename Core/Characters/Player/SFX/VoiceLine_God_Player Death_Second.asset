@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4557d074686775f4eb3c5a685669bd1b, type: 3}
+  m_Name: VoiceLine_God_Player Death_Second
+  m_EditorClassIdentifier: 
+  _localizationID: 11
+  _defaultText: You cannot avoid death... you are not the first and you will not
+    be the last...
+  _context: The second time the player dies.
+  soundEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 1337d042bb730134ab6062d8d7e5ba07,
+      type: 2}
+  _screenTime: 4
+  _notes: 
+  _implementationNotes: 
+  _isInGroup: 0
+  _implementedInObjects:
+  - {fileID: 4028576481339088234, guid: 71ffd40e2ce52824ea07b245c5a71d8e, type: 3}
