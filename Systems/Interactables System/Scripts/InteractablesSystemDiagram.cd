@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PropellerCap.ActivationTarget">
+    <Position X="2" Y="14" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABIAABAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Systems\Interactables System\ActivationTarget.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PropellerCap.Door">
+    <Position X="2.75" Y="16.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Core\Interactables\Doors\Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.Lantern">
+    <Position X="5" Y="16.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Core\Interactables\Lanterns\Lantern.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.Lever">
+    <Position X="0.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAACAAAAAAQgAAAAACAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\Core\Interactables\Levers\Lever.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.PressurePlate">
+    <Position X="3.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Core\Interactables\Pressure Plate\PressurePlate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.Activator">
+    <Position X="0.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAACCAgAAAAAACAAAAAAQgAIAEACGAAAAAAIAAAAAI=</HashCode>
+      <FileName>Assets\Systems\Interactables System\Activator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="PropellerCap.ATUnityEvent">
+    <Position X="0.5" Y="16.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Systems\Interactables System\Activation Targets\ATUnityEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PropellerCap.IActivatable">
+    <Position X="4.25" Y="14" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Systems\Interactables System\Interfaces\IActivatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PropellerCap.IInteractable">
+    <Position X="3.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACCAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAIAAAAAI=</HashCode>
+      <FileName>Assets\Systems\Interactables System\Interfaces\IInteractable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="8.77" />
+</ClassDiagram>

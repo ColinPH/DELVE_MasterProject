@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PropellerCap.SanityManager">
+    <Position X="1.75" Y="6" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="PropellerCap.SanityManager.OnSanityChange" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Systems\Sanity System\SanityManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEAAACAAEAAAAAABAAAAAAAAAIAAAAACAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Systems\Sanity System\SanityManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PropellerCap.Sanity">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Systems\Sanity System\Sanity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="8.77" />
+</ClassDiagram>
