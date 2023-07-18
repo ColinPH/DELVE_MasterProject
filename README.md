@@ -1,6 +1,8 @@
 # DELVE_MasterProject
 Code base for my master thesis game, DELVE.
 
+The version control used in this project was Plastic SCM, this repository is a single duplicate of the code.
+
 In this project I was the only programmer.
 Most of the code has been writen during this project (18 weeks).
 Some of the code has been writen by me in my past projects and reused.
